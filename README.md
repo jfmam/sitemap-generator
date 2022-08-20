@@ -4,7 +4,7 @@
 # 사용 법
 1. npm install
 2. npm start
-3 sitemap.xml 폴더 생성
+3. sitemap.xml 폴더 생성
 4. settings > general > hosting files in the root directory에 sitemap.xml 이라는 이름으로 저장할 것
 
 ## 주의사항

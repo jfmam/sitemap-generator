@@ -6,8 +6,9 @@
   "author": "jfmam <jfmam@naver.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "rm -rf ./sitemap.xml && node index.js",
+    "dev": "nodemon index.js",
+    "rm:sitemap": "rm -rf './sitemap.xml"
   },
   "dependencies": {
     "dotenv": "^16.0.1",

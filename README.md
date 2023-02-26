@@ -1,7 +1,9 @@
-# 사용 전
+# Sitemap파일 생성기
+sitemap.xml 파일을 생성
+## 사용 전
 1. bubble io data 에서 uniqueidBoard export (json format)
 2. 파일이름은 board-data.json으로 해서 root폴더에 넣을 것
-# 사용 법
+## 사용 법
 1. npm install
 2. npm start
 3. sitemap.xml 폴더 생성
